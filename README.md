@@ -1,4 +1,4 @@
 scheduler1
 ==========
 
-Simplest TYPO3 Scheduler task.
+Simplest TYPO3 Scheduler task ever.
